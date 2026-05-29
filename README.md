@@ -1,4 +1,5 @@
 # AI-Powered Resume Builder
+live link: https://tushitha4.github.io/AI-Powered-Resume-Builder/
 
 A modern, intelligent web application that helps users create professional and visually appealing resumes quickly and efficiently. Built with React, TypeScript, and TailwindCSS.
 
